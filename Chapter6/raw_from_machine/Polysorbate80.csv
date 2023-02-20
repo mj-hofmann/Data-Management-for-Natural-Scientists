@@ -1,0 +1,23 @@
+=== GENERAL INFORMATION ===
+Sample: Polysorbate80
+Measurement performed on: 2022-01-28 10:01:28
+Operator: Katharina Häckl
+Device: Fancy Machine X
+Device ID: Y0139836
+
+=== COLLECTED DATA ===
+Concentration / [g/L],Surface tension / [mN/m]
+4.0227e-01,45.41
+1.4731e-01,45.56
+8.6586e-02,45.43
+5.7990e-02,45.52
+4.0683e-02,45.47
+3.3768e-02,45.81
+2.5564e-02,45.99
+1.9440e-02,48.00
+4.8375e-03,55.50
+
+=== SUMMARY INFORMATION ===
+9 concentration - surface tension value pairs collected.
+Thank you for using Fancy Machine X.
+***This file was generated using Software Version 2.71.828***

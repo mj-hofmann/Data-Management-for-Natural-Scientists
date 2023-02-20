@@ -1,0 +1,46 @@
+parameter,value,id
+Sample,Polysorbate20,Polysorbate20.csv
+Measurement performed on,2022-01-28 14:41:39,Polysorbate20.csv
+Operator,Katharina Häckl,Polysorbate20.csv
+Device,Fancy Machine X,Polysorbate20.csv
+Device ID,Y0139836,Polysorbate20.csv
+Solvent medium,water,Polysorbate20.csv
+Experimental temperature degree C],23.0,Polysorbate20.csv
+File processed on,2022-02-16 17:38:28,Polysorbate20.csv
+File processed by,LocalAdmin,Polysorbate20.csv
+Sample,Polysorbate40,Polysorbate40.csv
+Measurement performed on,2022-01-28 13:37:44,Polysorbate40.csv
+Operator,Matthias Hofmann,Polysorbate40.csv
+Device,Fancy Machine X,Polysorbate40.csv
+Device ID,Y0139836,Polysorbate40.csv
+Solvent medium,water,Polysorbate40.csv
+Experimental temperature degree C],23.0,Polysorbate40.csv
+File processed on,2022-02-16 17:38:29,Polysorbate40.csv
+File processed by,LocalAdmin,Polysorbate40.csv
+Sample,Polysorbate60,Polysorbate60.csv
+Measurement performed on,2022-01-27 15:41:35,Polysorbate60.csv
+Operator,Matthias Hofmann,Polysorbate60.csv
+Device,Fancy Machine X,Polysorbate60.csv
+Device ID,Y0139836,Polysorbate60.csv
+Solvent medium,water,Polysorbate60.csv
+Experimental temperature degree C],23.0,Polysorbate60.csv
+File processed on,2022-02-16 17:38:30,Polysorbate60.csv
+File processed by,LocalAdmin,Polysorbate60.csv
+Sample,Polysorbate80,Polysorbate80.csv
+Measurement performed on,2022-01-28 10:01:28,Polysorbate80.csv
+Operator,Katharina Häckl,Polysorbate80.csv
+Device,Fancy Machine X,Polysorbate80.csv
+Device ID,Y0139836,Polysorbate80.csv
+Solvent medium,water,Polysorbate80.csv
+Experimental temperature degree C],23.0,Polysorbate80.csv
+File processed on,2022-02-16 17:38:30,Polysorbate80.csv
+File processed by,LocalAdmin,Polysorbate80.csv
+Sample,Polysorbate85,Polysorbate85.csv
+Measurement performed on,2022-01-28 13:41:22,Polysorbate85.csv
+Operator,Katharina Häckl,Polysorbate85.csv
+Device,Fancy Machine X,Polysorbate85.csv
+Device ID,Y0139836,Polysorbate85.csv
+Solvent medium,water,Polysorbate85.csv
+Experimental temperature degree C],23.0,Polysorbate85.csv
+File processed on,2022-02-16 17:38:31,Polysorbate85.csv
+File processed by,LocalAdmin,Polysorbate85.csv
